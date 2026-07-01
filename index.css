@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Resume - Your Name</title>
+  <!-- Linking three CSS files -->
+  <link rel="stylesheet" href="index.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="script.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Your Name</h1>
+      <p>Web Developer | Designer | Problem Solver</p>
+      <p>Email:adinetimeera@.email.com | Phone: +91-9347953181</p>
+    </header>
+
+    <section>
+      <h2>Experience</h2>
+      <ul>
+        <li>
+          <span class="job-title">Frontend Developer - XYZ Company</span>
+          <span class="date">2023 - Present</span>
+          <p>Developed responsive websites using HTML, CSS, and JavaScript. Collaborated with designers to improve UI/UX.</p>
+        </li>
+        <li>
+          <span class="job-title">Intern - ABC Solutions</span>
+          <span class="date">2022 - 2023</span>
+          <p>Assisted in building internal tools and learned agile development practices.</p>
+        </li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <ul>
+        <li>B.Tech in aritifical intelligence- Puttur University (2018 - 2022)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <ul class="skills">
+        <li>HTML5</li>
+        <li>CSS3</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Node.js</li>
+        <li>Git & GitHub</li>
+      </ul>
+    </section>
+  </div>
+</body>
+</html>
